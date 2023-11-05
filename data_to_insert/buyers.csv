@@ -1,0 +1,151 @@
+user_id,first_name,last_name,phone,city_id,email
+1,Melinda,Prayoga,+62 (0316) 183-2930,3578,melindaprayoga@gmail.com
+2,Harsaya,Wastuti,+62 (095) 463 0840,3171,harsayawastuti@gmail.com
+3,Syahrini,Nainggolan,(088) 498-7973,3471,syahrininainggolan@gmail.com
+4,Timbul,Agustina,+62 (97) 927-9139,1371,timbulagustina@yahoo.com
+5,Ani,Kusmawati,+62-0119-696-3640,6471,anikusmawati@yahoo.com
+6,Kacung,Wibowo,+62 (73) 140-3556,6471,kacungwibowo@gmail.com
+7,Syahrini,Yuliarti,+62-0387-806-5032,3573,syahriniyuliarti@hotmail.com
+8,Cahyo,Widiastuti,+62-0902-045-5439,3172,cahyowidiastuti@gmail.com
+9,Febi,Saragih,+62 (031) 906 7553,3171,febisaragih@gmail.com
+10,Emil,Samosir,+62 (016) 576-0522,3172,emilsamosir@gmail.com
+11,Nalar,Prakasa,+62 (0732) 130-0246,3273,nalarprakasa@gmail.com
+12,Mumpuni,Rajata,(099) 986 7264,3471,mumpunirajata@yahoo.com
+13,Prabu,Saptono,+62 (0613) 437-2702,6472,prabusaptono@hotmail.com
+14,Capa,Tampubolon,(0725) 725 6904,3172,capatampubolon@hotmail.com
+15,Timbul,Salahudin,086 005 0017,5171,timbulsalahudin@yahoo.com
+16,Danuja,Wulandari,+62 (0557) 460-3794,3273,danujawulandari@yahoo.com
+17,Panca,Santoso,(017) 255-1662,3175,pancasantoso@gmail.com
+18,Adika,Kusumo,+62-77-380-1335,3173,adikakusumo@hotmail.com
+19,Keisha,Pertiwi,(075) 587 6768,6472,keishapertiwi@gmail.com
+20,Gatra,Usamah,(032) 319-1372,1371,gatrausamah@hotmail.com
+21,Lulut,Simbolon,082 644 1330,5171,lulutsimbolon@yahoo.com
+22,Dimas,Natsir,+62-874-089-3911,3175,dimasnatsir@gmail.com
+23,Yani,Gunawan,(0534) 607-7741,3578,yanigunawan@gmail.com
+24,Gangsa,Permadi,+62 (480) 367 7952,3173,gangsapermadi@yahoo.com
+25,Jaeman,Anggraini,+62-244-356-5750,3471,jaemananggraini@yahoo.com
+26,Eka,Simbolon,+62-83-910-9871,3273,ekasimbolon@hotmail.com
+27,Kala,Prasasta,+62-0396-965-4126,3273,kalaprasasta@gmail.com
+28,Clara,Wulandari,(016) 603-4296,3171,clarawulandari@gmail.com
+29,Xanana,Dongoran,+62-17-420-0462,3175,xananadongoran@gmail.com
+30,Kunthara,Napitupulu,+62 (28) 903 1188,3174,kuntharanapitupulu@gmail.com
+31,Jati,Rahayu,+62-527-675-8636,3273,jatirahayu@gmail.com
+32,Ulya,Pradana,+62-070-222-9770,3174,ulyapradana@hotmail.com
+33,Setya,Sinaga,+62-054-583-0674,6472,setyasinaga@hotmail.com
+34,Aurora,Pudjiastuti,+62-090-576-7282,6471,aurorapudjiastuti@hotmail.com
+35,Jais,Budiman,+62 (0643) 148 6422,1371,jaisbudiman@gmail.com
+36,Winda,Maryadi,+62 (091) 134 3474,3578,windamaryadi@yahoo.com
+37,Nugraha,Melani,+62 (874) 502-0003,7371,nugrahamelani@yahoo.com
+38,Dadap,Maheswara,+62-02-606-1363,3573,dadapmaheswara@gmail.com
+39,Nyoman,Maulana,(002) 783-9921,7371,nyomanmaulana@gmail.com
+40,Opan,Marbun,(075) 217-8014,3175,opanmarbun@gmail.com
+41,Saka,Maryati,+62 (079) 148 1083,3174,sakamaryati@hotmail.com
+42,Unjani,Suwarno,+62-026-520-6307,1375,unjanisuwarno@hotmail.com
+43,Mitra,Aryani,+62 (75) 078 5513,3578,mitraaryani@gmail.com
+44,Prayogo,Gunarto,(063) 041-7876,7371,prayogogunarto@hotmail.com
+45,Ilyas,Astuti,+62-08-032-1129,3273,ilyasastuti@hotmail.com
+46,Martaka,Sitorus,(0186) 260-4575,6472,martakasitorus@yahoo.com
+47,Wakiman,Kusmawati,+62-0195-021-8798,3173,wakimankusmawati@hotmail.com
+48,Luthfi,Pratama,(0413) 215-5967,1375,luthfipratama@yahoo.com
+49,Emas,Prasetyo,+62 (0860) 392-0807,3573,emasprasetyo@hotmail.com
+50,Balangga,Haryanti,(0729) 349 8342,1371,balanggaharyanti@gmail.com
+51,Amalia,Ramadan,+62 (098) 556 6152,3173,amaliaramadan@hotmail.com
+52,Vicky,Mardhiyah,+62 (486) 672-8672,7371,vickymardhiyah@hotmail.com
+53,Sarah,Purwanti,(0846) 623-2263,1371,sarahpurwanti@hotmail.com
+54,Kamal,Putra,(084) 651-6049,6471,kamalputra@hotmail.com
+55,Harsaya,Utami,+62 (057) 014-7229,1371,harsayautami@gmail.com
+56,Rafi,Anggraini,+62-049-510-1708,5171,rafianggraini@yahoo.com
+57,Adinata,Pangestu,+62-076-980-9254,1375,adinatapangestu@hotmail.com
+58,Raisa,Winarno,(033) 035-9142,6472,raisawinarno@hotmail.com
+59,Purwadi,Fujiati,+62 (682) 409-1968,3471,purwadifujiati@yahoo.com
+60,Warsita,Firmansyah,+62 (083) 088-2611,7371,warsitafirmansyah@gmail.com
+61,Vanesa,Nurdiyanti,+62-0120-570-9191,1371,vanesanurdiyanti@gmail.com
+62,Qori,Mahendra,+62-38-647-5480,1371,qorimahendra@hotmail.com
+63,Mursinin,Yulianti,+62-011-659-0203,5171,mursininyulianti@hotmail.com
+64,Ian,Mandasari,+62-023-278-1221,3471,ianmandasari@yahoo.com
+65,Hasan,Oktaviani,(076) 489-4650,3578,hasanoktaviani@hotmail.com
+66,Wasis,Rahimah,+62-14-871-2933,3578,wasisrahimah@hotmail.com
+67,Lurhur,Siregar,(054) 364 7523,3173,lurhursiregar@hotmail.com
+68,Prasetya,Mandala,0884009848,7371,prasetyamandala@gmail.com
+69,Yosef,Wibowo,(0112) 406 2798,3175,yosefwibowo@yahoo.com
+70,Lanang,Maheswara,+62 (210) 914 0222,3171,lanangmaheswara@hotmail.com
+71,Salwa,Sihombing,+62-079-846-3343,3173,salwasihombing@gmail.com
+72,Ani,Pratama,+62-654-687-1496,6472,anipratama@hotmail.com
+73,Luwar,Mulyani,+62-720-115-9100,3273,luwarmulyani@gmail.com
+74,Bakda,Lazuardi,+62 (044) 586-7499,5171,bakdalazuardi@hotmail.com
+75,Jinawi,Yuliarti,+62-984-018-4226,1371,jinawiyuliarti@yahoo.com
+76,Jaeman,Siregar,+62 (090) 501 2903,3175,jaemansiregar@yahoo.com
+77,Uchita,Utama,+62-0706-955-9925,3172,uchitautama@yahoo.com
+78,Hairyanto,Hutasoit,+62-0295-264-8961,7371,hairyantohutasoit@gmail.com
+79,Rusman,Palastri,+62 (0842) 274-2639,5171,rusmanpalastri@gmail.com
+80,Ifa,Halimah,+62 (515) 015-4455,3273,ifahalimah@gmail.com
+81,Tasdik,Hutagalung,+62 (065) 576-9404,1371,tasdikhutagalung@yahoo.com
+82,Tugiman,Prasetyo,+62 (004) 398-6331,3172,tugimanprasetyo@yahoo.com
+83,Upik,Latupono,+62 (816) 409-5694,5171,upiklatupono@yahoo.com
+84,Karya,Lazuardi,+62-15-361-0411,5171,karyalazuardi@yahoo.com
+85,Aisyah,Farida,+62 (80) 751 1593,1375,aisyahfarida@hotmail.com
+86,Dalima,Waluyo,(0568) 426-4879,1375,dalimawaluyo@gmail.com
+87,Koko,Rajasa,+62 (0904) 866 1195,3172,kokorajasa@yahoo.com
+88,Febi,Hasanah,+62 (0254) 354-5629,3172,febihasanah@gmail.com
+89,Purwa,Pradipta,(0343) 650 9366,3578,purwapradipta@hotmail.com
+90,Dina,Lestari,+62 (208) 878-1661,1371,dinalestari@hotmail.com
+91,Kamal,Wibisono,+62 (0569) 180 7913,3173,kamalwibisono@yahoo.com
+92,Rahmi,Anggriawan,(061) 843 2289,1375,rahmianggriawan@yahoo.com
+93,Dalimin,Saputra,+62 (0496) 010-2570,1375,daliminsaputra@gmail.com
+94,Digdaya,Nababan,+62-093-882-2739,3273,digdayanababan@gmail.com
+95,Banawa,Sudiati,0862082186,6471,banawasudiati@yahoo.com
+96,Kenes,Andriani,+62 (20) 608 7989,3171,kenesandriani@yahoo.com
+97,Ophelia,Palastri,086 595 6179,1375,opheliapalastri@yahoo.com
+98,Anita,Sihombing,+62-404-064-9130,1371,anitasihombing@hotmail.com
+99,Wadi,Megantara,+62 (0843) 849 6143,3573,wadimegantara@hotmail.com
+100,Marsudi,Iswahyudi,(0605) 587 4214,3471,marsudiiswahyudi@yahoo.com
+101,Gasti,Sitompul,+62 (70) 209 7154,6472,gastisitompul@yahoo.com
+102,Yosef,Prayoga,+62 (0743) 821 8292,6471,yosefprayoga@gmail.com
+103,Dwi,Putra,+62 (953) 094-0612,3174,dwiputra@yahoo.com
+104,Najib,Hassanah,+62 (053) 812-7782,3578,najibhassanah@gmail.com
+105,Martana,Anggraini,(069) 657-3854,6471,martanaanggraini@yahoo.com
+106,Emong,Utama,085 552 9541,6472,emongutama@yahoo.com
+107,Jaka,Lestari,+62 (0255) 385-1139,3471,jakalestari@gmail.com
+108,Vinsen,Firgantoro,+62 (26) 378 0949,3175,vinsenfirgantoro@hotmail.com
+109,Dalima,Mustofa,(0919) 710-2717,3172,dalimamustofa@yahoo.com
+110,Luwes,Mansur,(0355) 891-8840,3171,luwesmansur@yahoo.com
+111,Asirwanda,Mahendra,+62-30-517-9562,3573,asirwandamahendra@yahoo.com
+112,Prayoga,Yuniar,(014) 650 9695,3171,prayogayuniar@yahoo.com
+113,Kemba,Prakasa,(0974) 468-1853,5171,kembaprakasa@hotmail.com
+114,Harjo,Purnawati,+62 (052) 220 8611,3578,harjopurnawati@yahoo.com
+115,Makara,Yulianti,+62-63-178-3647,3573,makarayulianti@hotmail.com
+116,Martani,Tampubolon,+62-0138-456-2251,7371,martanitampubolon@yahoo.com
+117,Dagel,Usada,+62 (086) 160-3318,3175,dagelusada@gmail.com
+118,Ira,Melani,+62 (060) 974 2568,3273,iramelani@gmail.com
+119,Gaduh,Hastuti,+62 (87) 828-7930,3173,gaduhhastuti@hotmail.com
+120,Rika,Sihotang,+62 (0653) 313 9692,6471,rikasihotang@hotmail.com
+121,Umar,Mansur,(0814) 125-8555,3171,umarmansur@yahoo.com
+122,Baktiadi,Saragih,(048) 104 7634,3573,baktiadisaragih@gmail.com
+123,Zulaikha,Budiyanto,+62 (752) 322 8952,3172,zulaikhabudiyanto@gmail.com
+124,Timbul,Hastuti,+62-390-889-4755,3171,timbulhastuti@gmail.com
+125,Caket,Prasetya,+62 (021) 776 3557,3273,caketprasetya@gmail.com
+126,Amalia,Wibowo,+62-0126-364-9616,3171,amaliawibowo@hotmail.com
+127,Melinda,Hasanah,+62 (0690) 882-1095,3175,melindahasanah@gmail.com
+128,Bagiya,Saptono,+62-672-846-5649,3175,bagiyasaptono@gmail.com
+129,Nasrullah,Suryono,+62 (986) 839 7176,3172,nasrullahsuryono@hotmail.com
+130,Kani,Samosir,+62 (183) 708 1839,3174,kanisamosir@yahoo.com
+131,Salwa,Marbun,+62-56-758-3808,3172,salwamarbun@hotmail.com
+132,Sarah,Yulianti,+62 (894) 318-4295,5171,sarahyulianti@hotmail.com
+133,Kurnia,Napitupulu,+62-010-478-4828,3174,kurnianapitupulu@yahoo.com
+134,Yani,Prabowo,+62 (69) 576-1608,3174,yaniprabowo@yahoo.com
+135,Bambang,Sihombing,(0120) 424 1323,3174,bambangsihombing@gmail.com
+136,Mulyono,Kusmawati,+62 (0641) 262-4018,3273,mulyonokusmawati@hotmail.com
+137,Rendy,Gunawan,+62-27-462-6219,3172,rendygunawan@gmail.com
+138,Dartono,Budiyanto,+62 (541) 709 7293,1375,dartonobudiyanto@gmail.com
+139,Koko,Setiawan,+62-343-871-3066,5171,kokosetiawan@gmail.com
+140,Candrakanta,Sirait,(027) 694-6840,5171,candrakantasirait@gmail.com
+141,Tami,Pranowo,+62 (0387) 785 8203,3173,tamipranowo@yahoo.com
+142,Harjaya,Waskita,+62 (055) 783-5496,1375,harjayawaskita@gmail.com
+143,Jasmani,Pradana,+62-0571-474-3135,3172,jasmanipradana@gmail.com
+144,Jasmani,Usada,+62 (0997) 818-0072,6471,jasmaniusada@yahoo.com
+145,Bakianto,Winarsih,+62 (16) 503-4110,7371,bakiantowinarsih@hotmail.com
+146,Jaya,Hutagalung,+62 (084) 669 0921,1375,jayahutagalung@yahoo.com
+147,Yani,Wibowo,+62-088-773-1741,3171,yaniwibowo@yahoo.com
+148,Shania,Lestari,+62 (21) 785-6808,3175,shanialestari@hotmail.com
+149,Balijan,Prayoga,+62 (078) 573 6809,3173,balijanprayoga@gmail.com
+150,Jamal,Kuswandari,+62 (010) 278 0373,5171,jamalkuswandari@hotmail.com
